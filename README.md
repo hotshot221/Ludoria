@@ -1,7 +1,7 @@
 # Ludoria Nexus
 
 **Your entire game library, summoned like a superpower.** Press one key and a
-fullscreen acrylic carousel fades in over whatever you're doing - pick a game,
+fullscreen carousel fades in over whatever you're doing - pick a game,
 press Enter, and Ludoria melts away into the launch. No window to manage, no
 app to "open", no waiting.
 
@@ -15,10 +15,13 @@ app to "open", no waiting.
 - **It's an overlay, not an app.** Everything else is a windowed program you
   alt-tab to. Ludoria summons and vanishes in-place - F7 or the controller
   Guide button, from anywhere, even mid-desktop.
+- **Consumes 0 resources** You heard it right. Unlike other "Apps" in the market
+  that run on Electron or other heavier tools, this is just an overlay on your
+  windows which doesn't even cache images. It hardly takes 2MB of your RAM on idle! 
 - **Zero configuration.** Steam, Epic and locally installed games are found
   automatically; official cover/hero/logo art is fetched for you. First run is
   a library, not a setup wizard.
-- **Controller-first.** Full couch navigation - stick, d-pad, A/B/X/Y, Guide to
+- **Controller-first.** Full couch navigation - stick, D-pad, A/B/X/Y, Guide to
   summon - with keyboard and mouse equally at home.
 - **It themes itself per game.** Accent colours are extracted from each game's
   artwork; the glass, the glow, the whole UI re-tints as you browse.
