@@ -30,9 +30,9 @@ app to "open", no waiting.
 
 ## Quick start
 
-1. Install [AutoHotkey v2](https://www.autohotkey.com/).
-2. Run `LudoriaNexus.ahk` (or compile with Ahk2Exe for a single .exe).
-3. Press **F7** or the controller **Guide** button.
+1. Run Ludoria.bat and wait for 30s. Let it scan for your games and search for the relevant metadata.
+2. Run `Ludoria.exe`. Check for the exe in your tray icons.
+3. Press **F7** or the controller **Guide** button to launch.
 
 ## Controls
 
