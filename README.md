@@ -36,7 +36,9 @@ app to "open", no waiting.
 1. Run Ludoria.bat and wait for 30s. Let it scan for your games and search for the relevant metadata.
 2. Run `Ludoria.exe`. Check for the exe in your tray icons.
 3. Press **F7** or the controller **Guide** button to launch.
-
+## Note
+-- You can place a shortcut to the `Ludoria.exe` file in the Startup folder so that it automatically launches every time you turn on your PC.
+   
 ## Controls
 
 | Input | Action |
