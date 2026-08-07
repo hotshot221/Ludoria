@@ -15,19 +15,19 @@ app to "open", no waiting.
 - **It's an overlay, not an app.** Everything else is a windowed program you
   alt-tab to. Ludoria summons and vanishes in-place - F7 or the controller
   Guide button, from anywhere, even mid-desktop.
-- **Consumes 0 resources** You heard it right. Unlike other "Apps" in the market
+- **Consumes ZERO resources.** You heard it right. Unlike other "Apps" in the market
   that run on Electron or other heavier tools, this is just an overlay on your
-  windows which doesn't even cache images. It hardly takes 2MB of your RAM on idle! 
-- **Zero configuration.** Steam, Epic and locally installed games are found
+  windows which doesn't even cache images. It hardly takes 2MB of your RAM on idle!
+- **Absurdly light.** One AutoHotkey script + one CSV. No database, no account,
+  no telemetry, no background bloat - the GPU surface exists only while the
+  overlay is on screen.
+- **ZERO configuration.** Steam, Epic and locally installed games are found
   automatically; official cover/hero/logo art is fetched for you. First run is
   a library, not a setup wizard.
 - **Controller-first.** Full couch navigation - stick, D-pad, A/B/X/Y, Guide to
   summon - with keyboard and mouse equally at home.
 - **It themes itself per game.** Accent colours are extracted from each game's
   artwork; the glass, the glow, the whole UI re-tints as you browse.
-- **Absurdly light.** One AutoHotkey script + one CSV. No database, no account,
-  no telemetry, no background bloat - the GPU surface exists only while the
-  overlay is on screen.
 - **Yours.** The library is a plain `games.csv` you can edit in Notepad. Art is
   a folder of PNGs. Portable folder, copy it anywhere.
 
