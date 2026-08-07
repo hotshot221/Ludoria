@@ -6,8 +6,8 @@ press Enter, and Ludoria melts away into the launch. No window to manage, no
 app to "open", no waiting.
 
 <p align="center">
-  <img src="docs/screenshot-1.png" width="49%">
-  <img src="docs/screenshot-2.png" width="49%">
+  <img src="docs/screenshot-1.png" width="100%">
+  <img src="docs/screenshot-2.png" width="100%">
 </p>
 
 ## Why not Playnite / LaunchBox / Steam Big Picture?
