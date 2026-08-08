@@ -3,7 +3,7 @@
 **Your entire game library, summoned like a superpower.** Press one key and a
 fullscreen carousel fades in over whatever you're doing - pick a game,
 press Enter, and Ludoria melts away into the launch. No window to manage, no
-app to "open", no waiting.
+app to "open", no waiting. Download from [latest release](../../releases/latest)
 
 <p align="center">
   <img src="docs/screenshot-1.png" width="100%">
